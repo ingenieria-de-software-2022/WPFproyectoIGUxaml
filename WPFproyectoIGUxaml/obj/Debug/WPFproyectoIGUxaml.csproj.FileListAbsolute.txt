@@ -1,0 +1,16 @@
+C:\Users\lange\Downloads\ingenieria-de-software\WPFproyectoIGUxaml\WPFproyectoIGUxaml\bin\Debug\WPFproyectoIGUxaml.exe.config
+C:\Users\lange\Downloads\ingenieria-de-software\WPFproyectoIGUxaml\WPFproyectoIGUxaml\bin\Debug\WPFproyectoIGUxaml.exe
+C:\Users\lange\Downloads\ingenieria-de-software\WPFproyectoIGUxaml\WPFproyectoIGUxaml\bin\Debug\WPFproyectoIGUxaml.pdb
+C:\Users\lange\Downloads\ingenieria-de-software\WPFproyectoIGUxaml\WPFproyectoIGUxaml\obj\Debug\WPFproyectoIGUxaml.csproj.AssemblyReference.cache
+C:\Users\lange\Downloads\ingenieria-de-software\WPFproyectoIGUxaml\WPFproyectoIGUxaml\obj\Debug\WPFproyectoIGUxaml.csproj.SuggestedBindingRedirects.cache
+C:\Users\lange\Downloads\ingenieria-de-software\WPFproyectoIGUxaml\WPFproyectoIGUxaml\obj\Debug\MainWindow.g.cs
+C:\Users\lange\Downloads\ingenieria-de-software\WPFproyectoIGUxaml\WPFproyectoIGUxaml\obj\Debug\App.g.cs
+C:\Users\lange\Downloads\ingenieria-de-software\WPFproyectoIGUxaml\WPFproyectoIGUxaml\obj\Debug\WPFproyectoIGUxaml_MarkupCompile.cache
+C:\Users\lange\Downloads\ingenieria-de-software\WPFproyectoIGUxaml\WPFproyectoIGUxaml\obj\Debug\WPFproyectoIGUxaml_MarkupCompile.lref
+C:\Users\lange\Downloads\ingenieria-de-software\WPFproyectoIGUxaml\WPFproyectoIGUxaml\obj\Debug\MainWindow.baml
+C:\Users\lange\Downloads\ingenieria-de-software\WPFproyectoIGUxaml\WPFproyectoIGUxaml\obj\Debug\WPFproyectoIGUxaml.g.resources
+C:\Users\lange\Downloads\ingenieria-de-software\WPFproyectoIGUxaml\WPFproyectoIGUxaml\obj\Debug\WPFproyectoIGUxaml.Properties.Resources.resources
+C:\Users\lange\Downloads\ingenieria-de-software\WPFproyectoIGUxaml\WPFproyectoIGUxaml\obj\Debug\WPFproyectoIGUxaml.csproj.GenerateResource.cache
+C:\Users\lange\Downloads\ingenieria-de-software\WPFproyectoIGUxaml\WPFproyectoIGUxaml\obj\Debug\WPFproyectoIGUxaml.csproj.CoreCompileInputs.cache
+C:\Users\lange\Downloads\ingenieria-de-software\WPFproyectoIGUxaml\WPFproyectoIGUxaml\obj\Debug\WPFproyectoIGUxaml.exe
+C:\Users\lange\Downloads\ingenieria-de-software\WPFproyectoIGUxaml\WPFproyectoIGUxaml\obj\Debug\WPFproyectoIGUxaml.pdb
